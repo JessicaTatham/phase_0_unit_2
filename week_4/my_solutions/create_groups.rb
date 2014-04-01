@@ -152,3 +152,28 @@ p accountability_group(array_dragonflies)
 
 # 5. Reflection 
 
+#What parts of your strategy worked? What problems did you face?
+	# Working in a group really worked well for this challenge. We each gave input that ultimately created a code that worked.
+
+#What questions did you have while coding? What resources did you find to help you answer them?
+	# We originally didn't know how to separate the cohort into groups of 4, so we had to research different ways to do that, eventually ending up with .each_slice().
+	#  We mainly used the Ruby doc to research methods.
+
+#What concepts are you having trouble with, or did you just figure something out? If so, what?
+	# I had trouble with the testing docs. This will be something I have to spend some time practicing.
+
+#Did you learn any new skills or tricks?
+	# I learned about the .each_slice() method as well as the .shuffle method. 
+
+#How confident are you with each of the learning objectives?
+	# I feel confident in the learning objectives.
+
+#Which parts of the challenge did you enjoy?
+	# I enjoyed having to figure out each and every part of this challenge. In the past, we've had to do certain peices of the code and it's all come together. I enjoyed the challenge
+	# of coming up with all the parts of the code.
+
+#Which parts of the challenge did you find tedious?
+	# THESE SAME QUESTIONS AS A REFLECTION!
+
+
+
