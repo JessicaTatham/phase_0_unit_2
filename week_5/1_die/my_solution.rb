@@ -2,6 +2,7 @@
 
 
 # I worked on this challenge [by myself, with: ].
+  #Jake Huhn
 
 # 2. Pseudocode
 

@@ -3,7 +3,7 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# Jess Tath
+# Jake Huhn
 
 # 2. Pseudocode
 
