@@ -8,6 +8,15 @@
 # Input: number of sides of a dice
 # Output: A randomly rolled number from that dice
 # Steps:
+=begin
+ Create class, Die
+ Define method, initialize, that takes a integer, sides as input.
+ Set the instance variable @sides, equal to sides.
+ If there the sides variable is less than 1, return an argument error. 
+ Define method sides that returns the the integer, sides. 
+ Define method roll that returns a random integer within the input side parameters. 
+
+=end
 
 
 # 3. Initial Solution
@@ -69,3 +78,30 @@ puts die.roll == ArgumentError
 
 
 # 5. Reflection 
+
+=begin
+What parts of your strategy worked? What problems did you face?
+The challenge was quite straight forward, anything we didn't exactly know
+we were able to find in The Learn to Program book by Chris Pine.
+
+What questions did you have while coding? What resources did you find to help you answer them?
+I used the ruby docs to find the ArgumentError directions, and a little bit of the Chris Pine's Learn
+to Program for some of the roll method.
+
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+None in this challenge.
+
+Did you learn any new skills or tricks?
+I learned about the ArgumentError.
+
+How confident are you with each of the learning objectives?
+I feel very confident with the learning objectives.
+
+Which parts of the challenge did you enjoy?
+I enjoyed learning more about the Class methods.
+
+Which parts of the challenge did you find tedious?
+Trying to get Driver Code that works. I know the code itself works, but we had trouble getting the driver code to pass as true.
+  
+=end
+
